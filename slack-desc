@@ -1,0 +1,11 @@
+wdiff: GNU wdiff (comparison of files on a word per word basis)
+wdiff:
+wdiff: GNU wdiff is a front end to diff for comparing files on a word per
+wdiff: word basis.  A word is anything between whitespace. This is useful
+wdiff: for comparing two texts in which a few words have been changed and
+wdiff: for which paragraphs have been refilled.  It works by creating two
+wdiff: temporary files, one word per line, and then executes diff on these
+wdiff: files.  It collects the diff output and uses it to produce a nicer
+wdiff: display of word differences between the original files.
+wdiff:
+wdiff: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
