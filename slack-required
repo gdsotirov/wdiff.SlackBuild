@@ -1,2 +1,2 @@
-glibc-solibs >= 2.11.1
+glibc-solibs >= 2.13
 libtermcap >= 1.2.3
