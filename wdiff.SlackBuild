@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: wdiff.SlackBuild,v 1.1 2011/03/13 10:18:02 gsotirov Exp $
+# $Id: wdiff.SlackBuild,v 1.2 2011/11/16 19:42:59 gsotirov Exp $
 #
 
-. ../slack-package.conf
+. ../../slack-package.conf
 
 NAME=wdiff
-VERSION=0.6.5
+VERSION=1.1.0
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
