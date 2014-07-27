@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for GNU wdiff
-# Copyright (C) 2011-2013 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2011-2014 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: wdiff.SlackBuild,v 1.4 2013/03/12 21:02:22 gsotirov Exp $
+# $Id: wdiff.SlackBuild,v 1.5 2014/07/27 11:37:00 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=wdiff
-VERSION=1.2.1
+VERSION=1.2.2
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
