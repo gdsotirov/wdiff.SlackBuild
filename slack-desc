@@ -8,4 +8,4 @@ wdiff: temporary files, one word per line, and then executes diff on these
 wdiff: files.  It collects the diff output and uses it to produce a nicer
 wdiff: display of word differences between the original files.
 wdiff:
-wdiff: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+wdiff: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
